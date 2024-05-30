@@ -6,7 +6,7 @@ The automatic proofreading of the proposal 1.pdf document attached gives the fol
 2. Proposal 1.xml (parsed xml file of Proposal 1.pdf file)
 3. Folder of Proposal 1 slices (contains tables, figures, chapters, and other segments automatically extracted from Proposal 1)
 
-Go to link - for 100 sample proposals auto proofreading
+Go to link https://shorturl.at/qvGGW for 100 sample research proposals and thesis with their generated outputs of feedback documents, parsed XML files, and a zip folder containing slices of each proposal
 
 
 
